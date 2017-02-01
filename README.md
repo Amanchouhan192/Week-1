@@ -7,3 +7,4 @@ Basics languages
 - [Android Development](https://github.com/rishabh-malik/learn-AndroidDevelopment)
 - [Artificial Intelligence](https://github.com/rishabh-malik/learn-Artificial.Intelligence)
 - [Python](https://github.com/mukulgoyal40/LearnPython.git)
+- [learn Data-structures](https://github.com/Amanchouhan192/learning---Data-structure)
